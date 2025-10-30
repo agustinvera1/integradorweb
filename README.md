@@ -46,7 +46,7 @@ Mira un breve video mostrando cómo funciona la aplicación CRUD de tareas:
 1. Clona el repositorio:  
 ```bash
 
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/agustinvera1/integradorweb.git
 
 Instala dependencias del frontend:
 
