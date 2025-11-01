@@ -44,7 +44,8 @@ Mira un breve video sobre cómo funciona la aplicación CRUD de tareas:
 ## 🛠️ Instalación
 
 1. Clona el repositorio:  
-```bash
+
+Crea una carpeta donde deseas guardar el repositorio, abrir dentro de la carpeta Git Bash y copiar:
 
 git clone https://github.com/agustinvera1/integradorweb.git
 
