@@ -7,7 +7,7 @@ El **frontend** está hecho con **React**, y el **backend** con **PHP** y **MySQ
 
 ## 🎬 Demo en acción
 
-Mira un breve video mostrando cómo funciona la aplicación CRUD de tareas:
+Mira un breve video sobre cómo funciona la aplicación CRUD de tareas:
 
 [![Ver video en YouTube](https://img.youtube.com/vi/zwTbzqE-fE0/hqdefault.jpg)](https://youtu.be/zwTbzqE-fE0)
 
