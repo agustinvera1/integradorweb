@@ -30,7 +30,7 @@ Mira un breve video mostrando cómo funciona la aplicación CRUD de tareas:
 
 **Frontend:**
 - React
-- Vite / Create React App (según tu caso)
+- Vite / Create React App 
 - Axios o fetch API
 - CSS
 
